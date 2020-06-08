@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[130]:
-
-
 from bokeh.plotting import figure, show, output_file
 from pandas_datareader import data
 import datetime
