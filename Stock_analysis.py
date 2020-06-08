@@ -40,8 +40,5 @@ output_file("stock_price_change_per_day.html")
 show(p)
 
 
-# In[ ]:
-
-
 
 
