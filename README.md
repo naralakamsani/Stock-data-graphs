@@ -9,7 +9,7 @@
 ### Install(run on command line)
 
 - pip install bokeh
-- pip install pandas
+- pip install pandas-datareader
 - pip install Jupyer Notebook
 
 ### Open(run on command line)
